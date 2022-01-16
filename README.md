@@ -13,7 +13,7 @@ It is like single room chat room where anybody can chat.User must log in using g
 ![App Screenshot](img/Screenshot%20(363).png)  ![App Screenshot](img/Screenshot%20(362).png)
 
 
-#firestore screenshot
+##firestore screenshot
 
 ![App Screenshot](img/Screenshot%20(361).png)
 
