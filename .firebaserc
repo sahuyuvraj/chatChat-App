@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "chatchat-by-yuvraj",
+    "production": "chatchat-by-yuvraj"
+  },
+  "targets": {}
+}
