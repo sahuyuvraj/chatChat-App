@@ -10,13 +10,10 @@ It is like single room chat room where anybody can chat.User must log in using g
 ## Screenshot
 
 
-![App Screenshot](img/Screenshot%20(363).png)
-
-![App Screenshot](img/Screenshot%20(362).png)
+![App Screenshot](img/Screenshot%20(363).png)  ![App Screenshot](img/Screenshot%20(362).png)
 
 ![App Screenshot](img/Screenshot%20(361).png)
 
-![App Screenshot](img/Screenshot%20(360).png)
 
 
 ## 🚀 About Me
